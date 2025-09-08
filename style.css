@@ -1,3 +1,6 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cinzel+Decorative:wght@700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -50,9 +53,6 @@ body {
     overflow: hidden;
     box-sizing: border-box;
 }
-
-/* Import Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cinzel+Decorative:wght@700&display=swap');
 
 /* Hero Section */
 .hero-section {
